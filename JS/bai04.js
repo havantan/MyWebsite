@@ -20,4 +20,4 @@ function demSoNguyenTo(n) {
     return count;
 }
 
-console.log(kiemTraNguyenTo(demSoNguyenTo(6))); // Output: 4
+console.log(kiemTraNguyenTo(demSoNguyenTo(6)));

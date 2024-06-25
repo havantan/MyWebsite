@@ -6,4 +6,4 @@ function kiemTraChanLe(so) {
     }
 }
 
-console.log(kiemTraChanLe(16)); // Output: Odd
+console.log(kiemTraChanLe(16));

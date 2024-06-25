@@ -6,4 +6,4 @@ function fibonacci(n) {
     }
 }
 
-console.log(fibonacci(5)); // Output: 5
+console.log(fibonacci(5));
